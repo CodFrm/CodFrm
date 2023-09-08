@@ -68,10 +68,10 @@
 ## About My Github
 
 <a href="https://github.com/CodFrm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codfrm&layout=compact&hide=javascript,html,css,php" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codfrm&layout=compact&hide=javascript,html,css,php&bg_color=15,f2f7fd,E0EAFC" />
 </a>
 <br/>  
 <br/>  
 <a href="https://github.com/CodFrm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codfrm&show_icons=true&count_private=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codfrm&show_icons=true&count_private=true&hide_border=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
