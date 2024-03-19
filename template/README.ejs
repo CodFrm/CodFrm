@@ -1,17 +1,22 @@
 <div align="center">
-  # Some Stars ⭐ 我的star列表，每天自动更新 ⭐
 
-  <div style="width: auto; margin: 0 auto">
-    <a
-      href="https://rsshub.app/github/starred_repos/codfrm"
-      target="_blank"
-      title="基于rsshub的订阅"
-      >RSS订阅</a
-    >
-  </div>
+# Some Stars
+
+⭐ 我的star列表，每天自动更新 ⭐
+
+<div style="width:auto;margin: 0 auto;">
+  <a href="https://rsshub.app/github/starred_repos/codfrm"  target="_blank" title="基于rsshub的订阅">RSS订阅</a>
 </div>
-<br />
 
-## Table of Contents <% for(let [language, repositories] of stars) { %> ## <%=
-language %> <% for(let repo of repositories) { %> - [<%= repo.full_name %>](<%=
-repo.html_url %>) - <%= repo.description %> <% } %> <% } %>
+
+</div><br>
+
+
+## Table of Contents
+
+<% for(let [language, repositories] of stars) { %>
+## <%= language %>
+  <% for(let repo of repositories) { %>
+- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %>
+  <% } %>
+<% } %>

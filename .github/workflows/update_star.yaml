@@ -6,10 +6,8 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
-  watch:
-    types: [started]
-    
+    - cron: "0 0 * * 0"
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,3 +21,4 @@ jobs:
           github-email: ${{ secrets.USER_EMAIL }}
           template-path: "template/README.ejs"
           github-name: ${{ github.repository_owner }}
+          output-filename: STARS.md
