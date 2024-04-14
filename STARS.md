@@ -315,7 +315,7 @@
 
 *   [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 
-*   [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
+*   [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
 
 *   [graarh/golang-socketio](https://github.com/graarh/golang-socketio) - golang socket.io client and server
 
