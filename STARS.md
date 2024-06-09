@@ -23,13 +23,13 @@
 *   [CSS](#css)
 *   [Dockerfile](#dockerfile)
 *   [miscellaneous](#miscellaneous)
+*   [PHP](#php)
 *   [Dart](#dart)
 *   [Vue](#vue)
 *   [Java](#java)
 *   [C++](#c)
 *   [C](#c-1)
 *   [Kotlin](#kotlin)
-*   [PHP](#php)
 *   [C#](#c-2)
 *   [Vim Script](#vim-script)
 *   [Swift](#swift)
@@ -58,8 +58,6 @@
 *   [zxuqian/zxuqian.cn](https://github.com/zxuqian/zxuqian.cn) - 峰华前端工程师@Bilibili 的个人博客，记录开发、日常、心得、思考、随笔等内容。
 
 *   [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
-
-*   [scriptscat/dz\_markdown](https://github.com/scriptscat/dz_markdown) - 因为购买的markdown插件实在太垃圾了，不得不再自己重写一个，RNM，退钱！
 
 *   [1665169869/Message-Push-ScriptCat](https://github.com/1665169869/Message-Push-ScriptCat) - 消息定时推送 -- 脚本猫 支持自定义模板，拥有模板字符串，程序员给女朋友的每日推送提醒，专属于程序员的浪漫~
 
@@ -609,6 +607,8 @@
 
 *   [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design
 
+*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A simple, lightweight, and secure WAF. Developed based on Nginx and connected as a reverse proxy. Protect your web applications from common attacks and exploits.
+
 *   [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
@@ -707,7 +707,7 @@
 
 *   [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
 
-*   [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
+*   [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Qwen2、Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
 
 *   [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 
@@ -831,6 +831,60 @@
 
 *   [CloudDeepTeam/amazeui](https://github.com/CloudDeepTeam/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 
+## PHP
+
+*   [scriptscat/dz\_markdown](https://github.com/scriptscat/dz_markdown) - 因为购买的markdown插件实在太垃圾了，不得不再自己重写一个，RNM，退钱！
+
+*   [jqhph/dcat-admin](https://github.com/jqhph/dcat-admin) - 🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
+
+*   [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
+
+*   [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager)
+
+*   [franzose/symfony-ddd-wishlist](https://github.com/franzose/symfony-ddd-wishlist) - Wishlist, a sample application on Symfony 3 and Vue.js built with DDD in mind
+
+*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
+
+*   [lizhichao/one](https://github.com/lizhichao/one) - A minimalist high-performance php framework that supports the \[swoole | php-fpm] environment
+
+*   [baiyutang/awesome-php-meetup](https://github.com/baiyutang/awesome-php-meetup) - 持更【大咖说PHP】大厂或大牛分享的PHP高阶玩法。大厂有如腾讯、新浪、有赞、陌陌、瓜子、阅文集团等，大咖有如鸟哥、韩天峰、胡波、高驰涛等
+
+*   [php-amqplib/php-amqplib](https://github.com/php-amqplib/php-amqplib) - The most widely used PHP client for RabbitMQ
+
+*   [omnilight/yii2-scheduling](https://github.com/omnilight/yii2-scheduling) - Scheduling extension for Yii2 framework
+
+*   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
+
+*   [nowgoo/dict](https://github.com/nowgoo/dict) - 一个简单快速的词库，用来从一段文本中找出存在于词库的词语。
+
+*   [yii-starter-kit/yii2-starter-kit](https://github.com/yii-starter-kit/yii2-starter-kit) - Yii2 Starter Kit
+
+*   [yiichina/yii2](https://github.com/yiichina/yii2) - Yii 2 中文翻译
+
+*   [yiisoft/yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
+
+*   [CodFrm/wnm](https://github.com/CodFrm/wnm) -
+
+*   [xdebug/xdebug](https://github.com/xdebug/xdebug) - Xdebug — Step Debugger and Debugging Aid for PHP
+
+*   [CodFrm/php-radius](https://github.com/CodFrm/php-radius) - 无限开坑-swoole作为radius服务器,huanlphp写接口,vue写前端模板
+
+*   [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
+
+*   [huanl-php/huanl](https://github.com/huanl-php/huanl) - 学习开坑新框架
+
+*   [huanl-php/core](https://github.com/huanl-php/core) - HuanLPHP 核心
+
+*   [seatonjiang/kratos](https://github.com/seatonjiang/kratos) - WordPress theme that focus on reading experience
+
+*   [CodFrm/cas](https://github.com/CodFrm/cas) - 云签到,打卡
+
+*   [slimphp/Slim-Skeleton](https://github.com/slimphp/Slim-Skeleton) - Slim Framework 4 Skeleton Application
+
+*   [CodFrm/icf-php](https://github.com/CodFrm/icf-php) - 一个轻量级的php框架,包括mvc,orm,路由,还在慢慢完善
+
+*   [CodFrm/stuShare](https://github.com/CodFrm/stuShare) - 校园网  openvpn 和 影视播放
+
 ## Dart
 
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -888,8 +942,6 @@
 *   [CodFrm/ijkplayer\_demo](https://github.com/CodFrm/ijkplayer_demo) - b站ijkplayer播放器使用demo
 
 ## C++
-
-*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 A free WAF that is sufficiently simple, effective, and powerful. Utilizing industry-leading semantic engine detection technology, it operates as a reverse proxy to protect your website from hacker attacks.
 
 *   [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 
@@ -974,58 +1026,6 @@
 *   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 
 *   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio.
-
-## PHP
-
-*   [jqhph/dcat-admin](https://github.com/jqhph/dcat-admin) - 🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
-
-*   [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
-
-*   [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager)
-
-*   [franzose/symfony-ddd-wishlist](https://github.com/franzose/symfony-ddd-wishlist) - Wishlist, a sample application on Symfony 3 and Vue.js built with DDD in mind
-
-*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
-
-*   [lizhichao/one](https://github.com/lizhichao/one) - A minimalist high-performance php framework that supports the \[swoole | php-fpm] environment
-
-*   [baiyutang/awesome-php-meetup](https://github.com/baiyutang/awesome-php-meetup) - 持更【大咖说PHP】大厂或大牛分享的PHP高阶玩法。大厂有如腾讯、新浪、有赞、陌陌、瓜子、阅文集团等，大咖有如鸟哥、韩天峰、胡波、高驰涛等
-
-*   [php-amqplib/php-amqplib](https://github.com/php-amqplib/php-amqplib) - The most widely used PHP client for RabbitMQ
-
-*   [omnilight/yii2-scheduling](https://github.com/omnilight/yii2-scheduling) - Scheduling extension for Yii2 framework
-
-*   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
-
-*   [nowgoo/dict](https://github.com/nowgoo/dict) - 一个简单快速的词库，用来从一段文本中找出存在于词库的词语。
-
-*   [yii-starter-kit/yii2-starter-kit](https://github.com/yii-starter-kit/yii2-starter-kit) - Yii2 Starter Kit
-
-*   [yiichina/yii2](https://github.com/yiichina/yii2) - Yii 2 中文翻译
-
-*   [yiisoft/yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
-
-*   [CodFrm/wnm](https://github.com/CodFrm/wnm) -
-
-*   [xdebug/xdebug](https://github.com/xdebug/xdebug) - Xdebug — Step Debugger and Debugging Aid for PHP
-
-*   [CodFrm/php-radius](https://github.com/CodFrm/php-radius) - 无限开坑-swoole作为radius服务器,huanlphp写接口,vue写前端模板
-
-*   [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
-
-*   [huanl-php/huanl](https://github.com/huanl-php/huanl) - 学习开坑新框架
-
-*   [huanl-php/core](https://github.com/huanl-php/core) - HuanLPHP 核心
-
-*   [seatonjiang/kratos](https://github.com/seatonjiang/kratos) - WordPress theme that focus on reading experience
-
-*   [CodFrm/cas](https://github.com/CodFrm/cas) - 云签到,打卡
-
-*   [slimphp/Slim-Skeleton](https://github.com/slimphp/Slim-Skeleton) - Slim Framework 4 Skeleton Application
-
-*   [CodFrm/icf-php](https://github.com/CodFrm/icf-php) - 一个轻量级的php框架,包括mvc,orm,路由,还在慢慢完善
-
-*   [CodFrm/stuShare](https://github.com/CodFrm/stuShare) - 校园网  openvpn 和 影视播放
 
 ## C\#
 
