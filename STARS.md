@@ -12,8 +12,8 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [JavaScript](#javascript)
+*   [Rust](#rust)
 *   [Shell](#shell)
 *   [Go](#go)
 *   [TypeScript](#typescript)
@@ -43,15 +43,9 @@
 *   [Starlark](#starlark)
 *   [Assembly](#assembly)
 
-## Rust
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-
-*   [chyyuu/os\_kernel\_lab](https://github.com/chyyuu/os_kernel_lab) - OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32
-
 ## JavaScript
+
+*   [geoi6sam1/FuckScripts](https://github.com/geoi6sam1/FuckScripts) - 🌈USE AT YOUR OWN RISK
 
 *   [permaweb/ao](https://github.com/permaweb/ao) - The ao component and tools Monorepo  - 🐰 🕳️ 👈
 
@@ -153,6 +147,14 @@
 
 *   [CodFrm/jx](https://github.com/CodFrm/jx) - 学校协会的下载站
 
+## Rust
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+
+*   [chyyuu/os\_kernel\_lab](https://github.com/chyyuu/os_kernel_lab) - OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32
+
 ## Shell
 
 *   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -207,7 +209,7 @@
 
 *   [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
 
 *   [maxisam/mgob](https://github.com/maxisam/mgob) - MongoDB dockerized backup agent. Runs schedule backups with retention, S3 & SFTP upload, notifications, instrumentation with Prometheus and more.
 
@@ -583,8 +585,6 @@
 
 *   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 
-*   [shiyanhui/dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
-
 ## TypeScript
 
 *   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -781,8 +781,6 @@
 
 *   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 
-*   [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
-
 *   [wsdjeg/Learn-Vim\_zh\_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) -
 
 *   [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
@@ -887,7 +885,7 @@
 
 ## Dart
 
-*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 
 *   [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno) - An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
 
@@ -1042,6 +1040,8 @@
 ## Vim Script
 
 *   [vim/vim](https://github.com/vim/vim) - The official Vim repository
+
+*   [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 
 *   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
