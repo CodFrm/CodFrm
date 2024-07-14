@@ -12,17 +12,17 @@
 
 ## Table of Contents
 
-*   [Go](#go)
 *   [TypeScript](#typescript)
+*   [Python](#python)
+*   [miscellaneous](#miscellaneous)
+*   [Shell](#shell)
+*   [Go](#go)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
-*   [Shell](#shell)
 *   [Lua](#lua)
 *   [Text](#text)
-*   [Python](#python)
 *   [CSS](#css)
 *   [Dockerfile](#dockerfile)
-*   [miscellaneous](#miscellaneous)
 *   [PHP](#php)
 *   [Dart](#dart)
 *   [Vue](#vue)
@@ -42,6 +42,242 @@
 *   [Ruby](#ruby)
 *   [Starlark](#starlark)
 *   [Assembly](#assembly)
+
+## TypeScript
+
+*   [enncy/easy-wiki](https://github.com/enncy/easy-wiki) - easy wiki - 极致简单的 wiki | 文档 | 教程 搭建工具
+
+*   [Xdy1579883916/vanilla-pudding](https://github.com/Xdy1579883916/vanilla-pudding) - vanilla-pudding 香草布丁🌿🍮脚本管理器
+
+*   [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+
+*   [CodFrm/cxmooc-tools](https://github.com/CodFrm/cxmooc-tools) - 一个 超星(学习通)/智慧树(知到)/中国大学mooc 学习工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
+
+*   [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
+
+*   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+
+*   [sergiodxa/remix-auth](https://github.com/sergiodxa/remix-auth) - Simple Authentication for Remix
+
+*   [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code in one click
+
+*   [sergiodxa/remix-i18next](https://github.com/sergiodxa/remix-i18next) - The easiest way to translate your Remix apps
+
+*   [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
+
+*   [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design
+
+*   [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
+
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
+
+*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+
+*   [enncy/openai-api-server](https://github.com/enncy/openai-api-server) - openai-api-server
+
+*   [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - 脚本猫，一个可以执行用户脚本的浏览器扩展
+
+*   [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+
+*   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+
+*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+
+*   [webfansplz/temir](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
+
+*   [lisonge/vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) - A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat
+
+*   [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
+
+*   [sergiodxa/remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
+
+*   [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
+
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+
+*   [WindrunnerMax/TKScript](https://github.com/WindrunnerMax/TKScript) - 油猴脚本 & 浏览器扩展
+
+*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+
+*   [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
+
+*   [scriptscat/scriptcat.org](https://github.com/scriptscat/scriptcat.org) - 脚本猫文档站点
+
+*   [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
+
+*   [scriptscat/scriptlist-frontend](https://github.com/scriptscat/scriptlist-frontend) - 脚本猫脚本站前端页面，与世界分享你的脚本
+
+*   [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+
+*   [zaaack/vscode-markdown-editor](https://github.com/zaaack/vscode-markdown-editor) - A vscode extension to make your vscode become a  full-featured WYSIWYG markdown editor
+
+*   [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
+
+*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+
+*   [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) - Chrome Extension TypeScript Starter
+
+*   [idoubi/sql2struct](https://github.com/idoubi/sql2struct) - A developer-friendly tool for transfering sql statement to go struct.
+
+*   [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
+
+*   [Srar/node-tap](https://github.com/Srar/node-tap) - 基于TypeScript实现的开源SSTap
+
+*   [Srar/MemcacheDos](https://github.com/Srar/MemcacheDos) - Memcache 反射DDOS攻击脚本经供学习参考使用
+
+## Python
+
+*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
+
+*   [starsliao/Prometheus](https://github.com/starsliao/Prometheus) - Grafana Dashboards for Prometheus Exporter
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+*   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
+
+*   [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
+
+*   [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Qwen2、Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
+
+*   [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
+
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+
+*   [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用
+
+*   [eosphoros-ai/DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) - A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance  in Text-to-SQL
+
+*   [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
+
+*   [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
+
+*   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
+
+*   [r0ysue/AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) - 安卓应用安全学习
+
+*   [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
+
+*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
+
+*   [amueller/word\_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
+
+*   [yahoo/open\_nsfw](https://github.com/yahoo/open_nsfw) - Not Suitable for Work (NSFW) classification using deep neural network Caffe models.
+
+*   [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+*   [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) - 支持更多游戏规则，让SSTap成为真正的“网游加速器”
+
+*   [yanyongyu/FlappyBird](https://github.com/yanyongyu/FlappyBird) - FlappyBird Reinforcement Learning based on Pygame, OpenCV, Tensorflow
+
+*   [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
+
+*   [danfolkes/Magnet2Torrent](https://github.com/danfolkes/Magnet2Torrent) - This will convert a magnet link into a .torrent file
+
+*   [ch1st/WebScanner](https://github.com/ch1st/WebScanner) - 目录扫描工具 Linux/mac
+
+## miscellaneous
+
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
+*   [langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
+
+*   [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
+
+*   [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录导出归档的 大 项目.
+
+*   [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃
+
+*   [glepnir/nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) - https://github.com/nanotee/nvim-lua-guide chinese version
+
+*   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+
+*   [wsdjeg/Learn-Vim\_zh\_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) - 聪明地学习Vim
+
+*   [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
+
+*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+
+*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+
+*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+
+*   [boy-hack/go-strip](https://github.com/boy-hack/go-strip) - 清除Go编译时自带的信息
+
+*   [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
+
+*   [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+
+*   [gopherchina/conference](https://github.com/gopherchina/conference) -
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+*   [fat-garage/how-to-get-rich-without-getting-lucky](https://github.com/fat-garage/how-to-get-rich-without-getting-lucky) -
+
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+
+*   [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+
+*   [bilibili/join-us](https://github.com/bilibili/join-us) - 大B站需要更多的小伙伴~ ( ゜- ゜)つロ  乾杯~
+
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+*   [justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) - 文章《Functional Programming For The Rest of Us》的中文翻译
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+*   [chyyuu/os\_course\_info](https://github.com/chyyuu/os_course_info) - OS Lectures 2022 Spring in Dept. CS, Tsinghua Univ.
+
+*   [Quorafind/golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) - 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
+
+*   [DocsHome/microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
+
+*   [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
+
+## Shell
+
+*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr等镜像加速\管理服务。支持部署到Render
+
+*   [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) - 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
+
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+
+*   [WindrunnerMax/EveryDay](https://github.com/WindrunnerMax/EveryDay) - 前端基础 个人博客 学习笔记
+
+*   [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+
+*   [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+
+*   [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
+
+*   [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
+
+*   [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
+
+*   [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
+
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+
+*   [opq-osc/LuaPlugins](https://github.com/opq-osc/LuaPlugins) - IOTQQ -- Lua插件
+
+*   [msys2/MINGW-packages](https://github.com/msys2/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
+
+*   [teddysun/shadowsocks\_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
+
+*   [kelseyhightower/consul-on-kubernetes](https://github.com/kelseyhightower/consul-on-kubernetes) - Running HashiCorp's Consul on Kubernetes
 
 ## Go
 
@@ -129,7 +365,7 @@
 
 *   [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in go.
 
-*   [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
+*   [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang.
 
 *   [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
 
@@ -449,90 +685,6 @@
 
 *   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 
-## TypeScript
-
-*   [Xdy1579883916/vanilla-pudding](https://github.com/Xdy1579883916/vanilla-pudding) - vanilla-pudding 香草布丁🌿🍮脚本管理器
-
-*   [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open source collaborative documentation and wiki software. It is an open-source alternative to the likes of Confluence and Notion.
-
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
-
-*   [CodFrm/cxmooc-tools](https://github.com/CodFrm/cxmooc-tools) - 一个 超星(学习通)/智慧树(知到)/中国大学mooc 学习工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)
-
-*   [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
-
-*   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-
-*   [sergiodxa/remix-auth](https://github.com/sergiodxa/remix-auth) - Simple Authentication for Remix
-
-*   [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code in one click
-
-*   [sergiodxa/remix-i18next](https://github.com/sergiodxa/remix-i18next) - The easiest way to translate your Remix apps
-
-*   [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
-
-*   [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design
-
-*   [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
-
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
-
-*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
-
-*   [enncy/openai-api-server](https://github.com/enncy/openai-api-server) - openai-api-server
-
-*   [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - 脚本猫，一个可以执行用户脚本的浏览器扩展
-
-*   [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-
-*   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
-
-*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-
-*   [webfansplz/temir](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
-
-*   [lisonge/vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) - A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat
-
-*   [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
-
-*   [sergiodxa/remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
-
-*   [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
-
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-
-*   [WindrunnerMax/TKScript](https://github.com/WindrunnerMax/TKScript) - 油猴脚本 & 浏览器扩展
-
-*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-
-*   [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-
-*   [scriptscat/scriptcat.org](https://github.com/scriptscat/scriptcat.org) - 脚本猫文档站点
-
-*   [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
-
-*   [scriptscat/scriptlist-frontend](https://github.com/scriptscat/scriptlist-frontend) - 脚本猫脚本站前端页面，与世界分享你的脚本
-
-*   [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
-
-*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-
-*   [zaaack/vscode-markdown-editor](https://github.com/zaaack/vscode-markdown-editor) - A vscode extension to make your vscode become a  full-featured WYSIWYG markdown editor
-
-*   [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
-
-*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-
-*   [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) - Chrome Extension TypeScript Starter
-
-*   [idoubi/sql2struct](https://github.com/idoubi/sql2struct) - A developer-friendly tool for transfering sql statement to go struct.
-
-*   [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
-
-*   [Srar/node-tap](https://github.com/Srar/node-tap) - 基于TypeScript实现的开源SSTap
-
-*   [Srar/MemcacheDos](https://github.com/Srar/MemcacheDos) - Memcache 反射DDOS攻击脚本经供学习参考使用
-
 ## JavaScript
 
 *   [geoi6sam1/FuckScripts](https://github.com/geoi6sam1/FuckScripts) - 🌈USE AT YOUR OWN RISK
@@ -645,34 +797,6 @@
 
 *   [chyyuu/os\_kernel\_lab](https://github.com/chyyuu/os_kernel_lab) - OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32
 
-## Shell
-
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-
-*   [WindrunnerMax/EveryDay](https://github.com/WindrunnerMax/EveryDay) - 前端基础 个人博客 学习笔记
-
-*   [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
-
-*   [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
-
-*   [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
-
-*   [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
-
-*   [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
-
-*   [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-
-*   [opq-osc/LuaPlugins](https://github.com/opq-osc/LuaPlugins) - IOTQQ -- Lua插件
-
-*   [msys2/MINGW-packages](https://github.com/msys2/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
-
-*   [teddysun/shadowsocks\_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
-
-*   [kelseyhightower/consul-on-kubernetes](https://github.com/kelseyhightower/consul-on-kubernetes) - Running HashiCorp's Consul on Kubernetes
-
 ## Lua
 
 *   [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
@@ -703,60 +827,6 @@
 
 *   [DSPBluePrints/FactoryBluePrints](https://github.com/DSPBluePrints/FactoryBluePrints) - 游戏戴森球计划的**工厂**蓝图仓库
 
-## Python
-
-*   [starsliao/Prometheus](https://github.com/starsliao/Prometheus) - Grafana Dashboards for Prometheus Exporter
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-*   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
-
-*   [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
-
-*   [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Qwen2、Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
-
-*   [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
-
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-
-*   [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用
-
-*   [eosphoros-ai/DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) - A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance  in Text-to-SQL
-
-*   [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
-
-*   [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
-
-*   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
-
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
-
-*   [r0ysue/AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) - 安卓应用安全学习
-
-*   [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
-
-*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
-
-*   [amueller/word\_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
-
-*   [yahoo/open\_nsfw](https://github.com/yahoo/open_nsfw) - Not Suitable for Work (NSFW) classification using deep neural network Caffe models.
-
-*   [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) - 支持更多游戏规则，让SSTap成为真正的“网游加速器”
-
-*   [yanyongyu/FlappyBird](https://github.com/yanyongyu/FlappyBird) - FlappyBird Reinforcement Learning based on Pygame, OpenCV, Tensorflow
-
-*   [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
-
-*   [danfolkes/Magnet2Torrent](https://github.com/danfolkes/Magnet2Torrent) - This will convert a magnet link into a .torrent file
-
-*   [ch1st/WebScanner](https://github.com/ch1st/WebScanner) - 目录扫描工具 Linux/mac
-
 ## CSS
 
 *   [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -770,68 +840,6 @@
 *   [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 
 *   [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) -
-
-## miscellaneous
-
-*   [langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
-
-*   [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
-
-*   [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录导出归档的 大 项目.
-
-*   [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃
-
-*   [glepnir/nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) - https://github.com/nanotee/nvim-lua-guide chinese version
-
-*   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-
-*   [wsdjeg/Learn-Vim\_zh\_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) - 聪明地学习Vim
-
-*   [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
-
-*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
-
-*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-
-*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-
-*   [boy-hack/go-strip](https://github.com/boy-hack/go-strip) - 清除Go编译时自带的信息
-
-*   [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
-
-*   [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-
-*   [gopherchina/conference](https://github.com/gopherchina/conference) -
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-*   [fat-garage/how-to-get-rich-without-getting-lucky](https://github.com/fat-garage/how-to-get-rich-without-getting-lucky) -
-
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-
-*   [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
-
-*   [bilibili/join-us](https://github.com/bilibili/join-us) - 大B站需要更多的小伙伴~ ( ゜- ゜)つロ  乾杯~
-
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-*   [justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) - 文章《Functional Programming For The Rest of Us》的中文翻译
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
-*   [chyyuu/os\_course\_info](https://github.com/chyyuu/os_course_info) - OS Lectures 2022 Spring in Dept. CS, Tsinghua Univ.
-
-*   [Quorafind/golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) - 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
-
-*   [DocsHome/microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
-
-*   [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
-
-*   [CloudDeepTeam/amazeui](https://github.com/CloudDeepTeam/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 
 ## PHP
 
@@ -937,10 +945,6 @@
 
 *   [Xchuanshuo/TBS](https://github.com/Xchuanshuo/TBS) - 坦白说QQ优化算法完全解密 加载QQ头像 点击后直接跳转到QQ资料卡页面 也是MVP模式的实例
 
-*   [vv4304/2017718](https://github.com/vv4304/2017718) - android原生APP 在线影视播放类
-
-*   [CodFrm/ijkplayer\_demo](https://github.com/CodFrm/ijkplayer_demo) - b站ijkplayer播放器使用demo
-
 ## C++
 
 *   [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -1010,10 +1014,6 @@
 *   [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
 
 *   [vv4304/stuShare-android](https://github.com/vv4304/stuShare-android) - 校园网登录app
-
-*   [ldcsaa/HP-Socket](https://github.com/ldcsaa/HP-Socket) - High Performance TCP/UDP/HTTP Communication Component
-
-*   [schwabe/ics-openvpn](https://github.com/schwabe/ics-openvpn) - OpenVPN for Android
 
 ## Kotlin
 
