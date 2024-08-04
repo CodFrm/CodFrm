@@ -338,7 +338,7 @@
 
 *   [agiledragon/gomonkey](https://github.com/agiledragon/gomonkey) - gomonkey is a library to make monkey patching in unit tests easy
 
-*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your websites from attacks and exploits.
+*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
 
 *   [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
 
