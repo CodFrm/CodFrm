@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -23,7 +24,6 @@
 *   [Text](#text)
 *   [CSS](#css)
 *   [Dockerfile](#dockerfile)
-*   [PHP](#php)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Dart](#dart)
 *   [Vue](#vue)
@@ -38,11 +38,62 @@
 *   [PowerShell](#powershell)
 *   [Vim script](#vim-script-1)
 *   [Less](#less)
-*   [Handlebars](#handlebars)
 *   [Makefile](#makefile)
 *   [Ruby](#ruby)
 *   [Starlark](#starlark)
 *   [Assembly](#assembly)
+
+## PHP
+
+*   [zhuifengshaonianhanlu/pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) - 一个好玩的Web安全-漏洞测试平台
+
+*   [scriptscat/dz\_markdown](https://github.com/scriptscat/dz_markdown) - 因为购买的markdown插件实在太垃圾了，不得不再自己重写一个，RNM，退钱！
+
+*   [jqhph/dcat-admin](https://github.com/jqhph/dcat-admin) - 🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
+
+*   [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
+
+*   [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager)
+
+*   [franzose/symfony-ddd-wishlist](https://github.com/franzose/symfony-ddd-wishlist) - Wishlist, a sample application on Symfony 3 and Vue.js built with DDD in mind
+
+*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
+
+*   [lizhichao/one](https://github.com/lizhichao/one) - A minimalist high-performance php framework that supports the \[swoole | php-fpm] environment
+
+*   [baiyutang/awesome-php-meetup](https://github.com/baiyutang/awesome-php-meetup) - 持更【大咖说PHP】大厂或大牛分享的PHP高阶玩法。大厂有如腾讯、新浪、有赞、陌陌、瓜子、阅文集团等，大咖有如鸟哥、韩天峰、胡波、高驰涛等
+
+*   [php-amqplib/php-amqplib](https://github.com/php-amqplib/php-amqplib) - The most widely used PHP client for RabbitMQ
+
+*   [omnilight/yii2-scheduling](https://github.com/omnilight/yii2-scheduling) - Scheduling extension for Yii2 framework
+
+*   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
+
+*   [nowgoo/dict](https://github.com/nowgoo/dict) - 一个简单快速的词库，用来从一段文本中找出存在于词库的词语。
+
+*   [yii-starter-kit/yii2-starter-kit](https://github.com/yii-starter-kit/yii2-starter-kit) - Yii2 Starter Kit
+
+*   [yiichina/yii2](https://github.com/yiichina/yii2) - Yii 2 中文翻译
+
+*   [yiisoft/yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
+
+*   [CodFrm/wnm](https://github.com/CodFrm/wnm) -
+
+*   [xdebug/xdebug](https://github.com/xdebug/xdebug) - Xdebug — Step Debugger and Debugging Aid for PHP
+
+*   [CodFrm/php-radius](https://github.com/CodFrm/php-radius) - 无限开坑-swoole作为radius服务器,huanlphp写接口,vue写前端模板
+
+*   [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
+
+*   [huanl-php/huanl](https://github.com/huanl-php/huanl) - 学习开坑新框架
+
+*   [huanl-php/core](https://github.com/huanl-php/core) - HuanLPHP 核心
+
+*   [seatonjiang/kratos](https://github.com/seatonjiang/kratos) - WordPress theme that focus on reading experience
+
+*   [CodFrm/cas](https://github.com/CodFrm/cas) - 云签到,打卡
+
+*   [slimphp/Slim-Skeleton](https://github.com/slimphp/Slim-Skeleton) - Slim Framework 4 Skeleton Application
 
 ## JavaScript
 
@@ -644,6 +695,8 @@
 
 *   [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 
+*   [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
+
 *   [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure Go
 
 *   [xormplus/xorm](https://github.com/xormplus/xorm) - xorm是一个简单而强大的Go语言ORM库，通过它可以使数据库操作非常简便。本库是基于原版xorm的定制增强版本，为xorm提供类似ibatis的配置文件及动态SQL支持，支持AcitveRecord操作
@@ -840,58 +893,6 @@
 
 *   [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) -
 
-## PHP
-
-*   [scriptscat/dz\_markdown](https://github.com/scriptscat/dz_markdown) - 因为购买的markdown插件实在太垃圾了，不得不再自己重写一个，RNM，退钱！
-
-*   [jqhph/dcat-admin](https://github.com/jqhph/dcat-admin) - 🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
-
-*   [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
-
-*   [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager)
-
-*   [franzose/symfony-ddd-wishlist](https://github.com/franzose/symfony-ddd-wishlist) - Wishlist, a sample application on Symfony 3 and Vue.js built with DDD in mind
-
-*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
-
-*   [lizhichao/one](https://github.com/lizhichao/one) - A minimalist high-performance php framework that supports the \[swoole | php-fpm] environment
-
-*   [baiyutang/awesome-php-meetup](https://github.com/baiyutang/awesome-php-meetup) - 持更【大咖说PHP】大厂或大牛分享的PHP高阶玩法。大厂有如腾讯、新浪、有赞、陌陌、瓜子、阅文集团等，大咖有如鸟哥、韩天峰、胡波、高驰涛等
-
-*   [php-amqplib/php-amqplib](https://github.com/php-amqplib/php-amqplib) - The most widely used PHP client for RabbitMQ
-
-*   [omnilight/yii2-scheduling](https://github.com/omnilight/yii2-scheduling) - Scheduling extension for Yii2 framework
-
-*   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
-
-*   [nowgoo/dict](https://github.com/nowgoo/dict) - 一个简单快速的词库，用来从一段文本中找出存在于词库的词语。
-
-*   [yii-starter-kit/yii2-starter-kit](https://github.com/yii-starter-kit/yii2-starter-kit) - Yii2 Starter Kit
-
-*   [yiichina/yii2](https://github.com/yiichina/yii2) - Yii 2 中文翻译
-
-*   [yiisoft/yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
-
-*   [CodFrm/wnm](https://github.com/CodFrm/wnm) -
-
-*   [xdebug/xdebug](https://github.com/xdebug/xdebug) - Xdebug — Step Debugger and Debugging Aid for PHP
-
-*   [CodFrm/php-radius](https://github.com/CodFrm/php-radius) - 无限开坑-swoole作为radius服务器,huanlphp写接口,vue写前端模板
-
-*   [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
-
-*   [huanl-php/huanl](https://github.com/huanl-php/huanl) - 学习开坑新框架
-
-*   [huanl-php/core](https://github.com/huanl-php/core) - HuanLPHP 核心
-
-*   [seatonjiang/kratos](https://github.com/seatonjiang/kratos) - WordPress theme that focus on reading experience
-
-*   [CodFrm/cas](https://github.com/CodFrm/cas) - 云签到,打卡
-
-*   [slimphp/Slim-Skeleton](https://github.com/slimphp/Slim-Skeleton) - Slim Framework 4 Skeleton Application
-
-*   [CodFrm/icf-php](https://github.com/CodFrm/icf-php) - 一个轻量级的php框架,包括mvc,orm,路由,还在慢慢完善
-
 ## Jupyter Notebook
 
 *   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -924,7 +925,7 @@
 
 ## Java
 
-*   [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB
+*   [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 
 *   [infinilabs/analysis-ik](https://github.com/infinilabs/analysis-ik) - 🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.
 
@@ -1085,10 +1086,6 @@
 ## Less
 
 *   [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
-
-## Handlebars
-
-*   [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 
 ## Makefile
 
