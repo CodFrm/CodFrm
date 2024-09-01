@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+*   [PowerShell](#powershell)
 *   [Go](#go)
 *   [C#](#c)
 *   [Python](#python)
@@ -20,6 +21,7 @@
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [PHP](#php)
+*   [HTML](#html)
 *   [Rust](#rust)
 *   [Lua](#lua)
 *   [Text](#text)
@@ -34,14 +36,22 @@
 *   [Kotlin](#kotlin)
 *   [Vim Script](#vim-script)
 *   [Swift](#swift)
-*   [HTML](#html)
-*   [PowerShell](#powershell)
 *   [Vim script](#vim-script-1)
 *   [Less](#less)
 *   [Makefile](#makefile)
 *   [Ruby](#ruby)
 *   [Starlark](#starlark)
 *   [Assembly](#assembly)
+
+## PowerShell
+
+*   [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
+
+*   [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
+
+*   [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
+
+*   [AliyunContainerService/k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
 
 ## Go
 
@@ -687,11 +697,9 @@
 
 *   [Happy-Coding-Clans/vue-easytable](https://github.com/Happy-Coding-Clans/vue-easytable) - A  powerful data table based on vuejs. You can use  it as data grid、Microsoft Excel or Google sheets. It supports virtual scroll、cell edit etc.
 
-*   [CodFrm/JXTemplate](https://github.com/CodFrm/JXTemplate) - html模板
-
 ## TypeScript
 
-*   [certd/certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、更新、续期、部署安装，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
+*   [certd/certd](https://github.com/certd/certd) - 免费通配符泛域名SSL证书全自动申请、更新、续期、部署安装，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
 
 *   [Xdy1579883916/vanilla-pudding](https://github.com/Xdy1579883916/vanilla-pudding) - vanilla-pudding 香草布丁🌿🍮脚本管理器
 
@@ -777,8 +785,6 @@
 
 *   [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
 
-*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr等镜像加速\管理服务。支持部署到Render\Koyeb
-
 *   [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) - 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
 
 *   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -799,7 +805,7 @@
 
 *   [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
 *   [opq-osc/LuaPlugins](https://github.com/opq-osc/LuaPlugins) - IOTQQ -- Lua插件
 
@@ -858,6 +864,22 @@
 *   [seatonjiang/kratos](https://github.com/seatonjiang/kratos) - WordPress theme that focus on reading experience
 
 *   [CodFrm/cas](https://github.com/CodFrm/cas) - 云签到,打卡
+
+## HTML
+
+*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
+
+*   [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注 chatgpt、容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
+
+*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
+
+*   [sologgfun/drinkNow](https://github.com/sologgfun/drinkNow) -
+
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+
+*   [eddycjy/blog](https://github.com/eddycjy/blog) - 煎鱼的博客，有点忙，传送门：https://eddycjy.com
+
+*   [polaris1119/pkgdoc](https://github.com/polaris1119/pkgdoc) - go 标准库和部分第三方包的包文档中文翻译
 
 ## Rust
 
@@ -1005,7 +1027,7 @@
 
 *   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 
-*   [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+*   [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 *   [lpflpf/rocketmq-client-php](https://github.com/lpflpf/rocketmq-client-php) - A Php Client for Apache RocketMQ.
 
@@ -1056,28 +1078,6 @@
 ## Swift
 
 *   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-
-## HTML
-
-*   [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注 chatgpt、容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
-
-*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
-
-*   [sologgfun/drinkNow](https://github.com/sologgfun/drinkNow) -
-
-*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-
-*   [eddycjy/blog](https://github.com/eddycjy/blog) - 煎鱼的博客，有点忙，传送门：https://eddycjy.com
-
-*   [polaris1119/pkgdoc](https://github.com/polaris1119/pkgdoc) - go 标准库和部分第三方包的包文档中文翻译
-
-## PowerShell
-
-*   [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
-
-*   [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
-
-*   [AliyunContainerService/k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
 
 ## Vim script
 
