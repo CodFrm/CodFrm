@@ -32,7 +32,6 @@
 *   [Dockerfile](#dockerfile)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Dart](#dart)
-*   [Vue](#vue)
 *   [Java](#java)
 *   [C++](#c-2)
 *   [Kotlin](#kotlin)
@@ -42,8 +41,11 @@
 *   [Less](#less)
 *   [Ruby](#ruby)
 *   [Assembly](#assembly)
+*   [Vue](#vue)
 
 ## TypeScript
+
+*   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 
 *   [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
 
@@ -129,8 +131,6 @@
 
 *   [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
 
-*   [Srar/node-tap](https://github.com/Srar/node-tap) - 基于TypeScript实现的开源SSTap
-
 ## Lua
 
 *   [CodFrm/dotfiles](https://github.com/CodFrm/dotfiles) - 一些.配置文件
@@ -175,7 +175,7 @@
 
 *   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 
-*   [zhufuyi/sponge](https://github.com/zhufuyi/sponge) - Sponge is a powerful Go development framework, it's easy to develop web and microservice projects.
+*   [zhufuyi/sponge](https://github.com/zhufuyi/sponge) - Sponge is a powerful Go development framework, it's easy to develop web, gRPC and microservice projects.
 
 *   [prometheus/node\_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 
@@ -194,6 +194,8 @@
 *   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
 
 *   [maxisam/mgob](https://github.com/maxisam/mgob) - MongoDB dockerized backup agent. Runs schedule backups with retention, S3 & SFTP upload, notifications, instrumentation with Prometheus and more.
+
+*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo统一管理操作平台。web version of linux(terminal file script process), database (mysql pgsql oracle sqlserver Gauss sqlite), redis(single sentinel cluster), mongo unified management and operation platform.
 
 *   [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 
@@ -467,7 +469,7 @@
 
 *   [asaskevich/EventBus](https://github.com/asaskevich/EventBus) - \[Go] Lightweight eventbus with async compatibility for Go
 
-*   [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
+*   [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 
 *   [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 
@@ -1001,14 +1003,6 @@
 
 *   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
-## Vue
-
-*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo统一管理操作平台。web version of linux(terminal file script process), database (mysql pgsql oracle sqlserver Gauss sqlite), redis(single sentinel cluster), mongo unified management and operation platform.
-
-*   [weifeiyue/vue-datepicker-local](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2
-
-*   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
-
 ## Java
 
 *   [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
@@ -1102,3 +1096,9 @@
 ## Assembly
 
 *   [boostorg/context](https://github.com/boostorg/context) -
+
+## Vue
+
+*   [weifeiyue/vue-datepicker-local](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2
+
+*   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
