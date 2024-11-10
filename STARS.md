@@ -633,7 +633,7 @@
 
 *   [chyyuu/os\_course\_info](https://github.com/chyyuu/os_course_info) - OS Lectures 2022 Spring in Dept. CS, Tsinghua Univ.
 
-*   [Quorafind/golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) - 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
+*   [Quorafind/golang-developer-roadmap-cn-2021](https://github.com/Quorafind/golang-developer-roadmap-cn-2021) - 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
 
 *   [DocsHome/microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
 
