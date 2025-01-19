@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Go](#go)
@@ -24,7 +25,6 @@
 *   [PowerShell](#powershell)
 *   [C#](#c-1)
 *   [JavaScript](#javascript)
-*   [PHP](#php)
 *   [Markdown](#markdown)
 *   [Text](#text)
 *   [CSS](#css)
@@ -42,6 +42,48 @@
 *   [Ruby](#ruby)
 *   [Assembly](#assembly)
 *   [Vue](#vue)
+
+## PHP
+
+*   [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) - 彩虹聚合DNS管理系统
+
+*   [zhuifengshaonianhanlu/pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) - 一个好玩的Web安全-漏洞测试平台
+
+*   [scriptscat/dz\_markdown](https://github.com/scriptscat/dz_markdown) - 因为购买的markdown插件实在太垃圾了，不得不再自己重写一个，RNM，退钱！
+
+*   [jqhph/dcat-admin](https://github.com/jqhph/dcat-admin) - 🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
+
+*   [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
+
+*   [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager)
+
+*   [franzose/symfony-ddd-wishlist](https://github.com/franzose/symfony-ddd-wishlist) - Wishlist, a sample application on Symfony 3 and Vue.js built with DDD in mind
+
+*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
+
+*   [lizhichao/one](https://github.com/lizhichao/one) - A minimalist high-performance php framework that supports the \[swoole | php-fpm] environment
+
+*   [baiyutang/awesome-php-meetup](https://github.com/baiyutang/awesome-php-meetup) - 持更【大咖说PHP】大厂或大牛分享的PHP高阶玩法。大厂有如腾讯、新浪、有赞、陌陌、瓜子、阅文集团等，大咖有如鸟哥、韩天峰、胡波、高驰涛等
+
+*   [php-amqplib/php-amqplib](https://github.com/php-amqplib/php-amqplib) - The most widely used PHP client for RabbitMQ
+
+*   [omnilight/yii2-scheduling](https://github.com/omnilight/yii2-scheduling) - Scheduling extension for Yii2 framework
+
+*   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
+
+*   [nowgoo/dict](https://github.com/nowgoo/dict) - 一个简单快速的词库，用来从一段文本中找出存在于词库的词语。
+
+*   [yii-starter-kit/yii2-starter-kit](https://github.com/yii-starter-kit/yii2-starter-kit) - Yii2 Starter Kit
+
+*   [yiichina/yii2](https://github.com/yiichina/yii2) - Yii 2 中文翻译
+
+*   [yiisoft/yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
+
+*   [CodFrm/wnm](https://github.com/CodFrm/wnm) -
+
+*   [xdebug/xdebug](https://github.com/xdebug/xdebug) - Xdebug — Step Debugger and Debugging Aid for PHP
+
+*   [CodFrm/php-radius](https://github.com/CodFrm/php-radius) - 无限开坑-swoole作为radius服务器,huanlphp写接口,vue写前端模板
 
 ## Rust
 
@@ -93,7 +135,7 @@
 
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 
-*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 *   [enncy/openai-api-server](https://github.com/enncy/openai-api-server) - openai-api-server
 
@@ -733,7 +775,7 @@
 
 *   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
-*   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
+*   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 
 *   [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
 
@@ -905,46 +947,6 @@
 
 *   [Happy-Coding-Clans/vue-easytable](https://github.com/Happy-Coding-Clans/vue-easytable) - A  powerful data table based on vuejs. You can use  it as data grid、Microsoft Excel or Google sheets. It supports virtual scroll、cell edit etc.
 
-## PHP
-
-*   [zhuifengshaonianhanlu/pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) - 一个好玩的Web安全-漏洞测试平台
-
-*   [scriptscat/dz\_markdown](https://github.com/scriptscat/dz_markdown) - 因为购买的markdown插件实在太垃圾了，不得不再自己重写一个，RNM，退钱！
-
-*   [jqhph/dcat-admin](https://github.com/jqhph/dcat-admin) - 🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
-
-*   [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
-
-*   [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager)
-
-*   [franzose/symfony-ddd-wishlist](https://github.com/franzose/symfony-ddd-wishlist) - Wishlist, a sample application on Symfony 3 and Vue.js built with DDD in mind
-
-*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
-
-*   [lizhichao/one](https://github.com/lizhichao/one) - A minimalist high-performance php framework that supports the \[swoole | php-fpm] environment
-
-*   [baiyutang/awesome-php-meetup](https://github.com/baiyutang/awesome-php-meetup) - 持更【大咖说PHP】大厂或大牛分享的PHP高阶玩法。大厂有如腾讯、新浪、有赞、陌陌、瓜子、阅文集团等，大咖有如鸟哥、韩天峰、胡波、高驰涛等
-
-*   [php-amqplib/php-amqplib](https://github.com/php-amqplib/php-amqplib) - The most widely used PHP client for RabbitMQ
-
-*   [omnilight/yii2-scheduling](https://github.com/omnilight/yii2-scheduling) - Scheduling extension for Yii2 framework
-
-*   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
-
-*   [nowgoo/dict](https://github.com/nowgoo/dict) - 一个简单快速的词库，用来从一段文本中找出存在于词库的词语。
-
-*   [yii-starter-kit/yii2-starter-kit](https://github.com/yii-starter-kit/yii2-starter-kit) - Yii2 Starter Kit
-
-*   [yiichina/yii2](https://github.com/yiichina/yii2) - Yii 2 中文翻译
-
-*   [yiisoft/yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
-
-*   [CodFrm/wnm](https://github.com/CodFrm/wnm) -
-
-*   [xdebug/xdebug](https://github.com/xdebug/xdebug) - Xdebug — Step Debugger and Debugging Aid for PHP
-
-*   [CodFrm/php-radius](https://github.com/CodFrm/php-radius) - 无限开坑-swoole作为radius服务器,huanlphp写接口,vue写前端模板
-
 ## Markdown
 
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -1036,8 +1038,6 @@
 *   [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 
 *   [yyzybb537/libgo](https://github.com/yyzybb537/libgo) - Go-style concurrency in C++11
-
-*   [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 
 ## Kotlin
 
