@@ -111,7 +111,7 @@
 
 *   [Ullaakut/nmap](https://github.com/Ullaakut/nmap) - Idiomatic nmap library for go developers
 
-*   [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
+*   [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go
 
 *   [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 
