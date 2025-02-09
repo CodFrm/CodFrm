@@ -559,7 +559,7 @@
 
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 
-*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 *   [enncy/openai-api-server](https://github.com/enncy/openai-api-server) - openai-api-server
 
