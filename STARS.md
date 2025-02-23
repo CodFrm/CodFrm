@@ -45,6 +45,8 @@
 
 ## Go
 
+*   [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
+
 *   [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 
 *   [caddy-dns/tencentcloud](https://github.com/caddy-dns/tencentcloud) -
@@ -83,7 +85,7 @@
 
 *   [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
 
 *   [maxisam/mgob](https://github.com/maxisam/mgob) - MongoDB dockerized backup agent. Runs schedule backups with retention, S3 & SFTP upload, notifications, instrumentation with Prometheus and more.
 
@@ -521,7 +523,7 @@
 
 *   [Przeblysk/next-starter](https://github.com/Przeblysk/next-starter) - A modern, feature-rich Next.js starter template to kickstart your web development projects with best practices and powerful tools pre-configured.
 
-*   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
+*   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
 
 *   [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
 
@@ -533,7 +535,7 @@
 
 *   [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
 
 *   [WindRunnerMax/EveryDay](https://github.com/WindRunnerMax/EveryDay) - 前端基础 个人博客 学习笔记
 
@@ -1026,8 +1028,6 @@
 *   [banq/jdonframework](https://github.com/banq/jdonframework) - Domain-Driven-Design Pub/Sub Domain-Events  framework
 
 *   [H07000223/FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout) - An Android TabLayout Lib
-
-*   [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
 
 ## C++
 
